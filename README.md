@@ -1,30 +1,31 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohammad1kod.mohammad1kod" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=WELCOME+TO+MY+COOL+GIT+PROFILE+😎
-;+MY+NAME+IS+MOHAMMAD!,+AKA+CODENOOPER🫠
-,+BUT;+IMPRESSIVE!!+RIGHT?!🫣
-;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=1000&height=100&duration=3000&lines=WELCOME+TO+MY+COOL+GIT+PROFILE+😎;+MO+HERE!,+AKA+CODENOOPER🫠,+BUT......;+IMPRESSSSSSIVE!!+RIGHT?!🫣;+STILL+NOT+IMPRESSED+YET?!!😒,;+KEEP+SCROLLING+TO+SEE+MY+SNAKE+🐍" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h2> 💼 I'm passionate about employing my technical skills in Real-World business-driven ideas, aiming to deliver modern outcomes using wise business management approaches.
+</h2>
 
-<br/>
+<h3 align="center">SOFTWARE ENGINEER IN SWEDEN 🇸🇪 💚</h3>
+<h3 align="center">UNIVERSITY OF GOTHENBURG BABAAAAY!! 🦾</h3>
+
+
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a personal website**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **How I am achieving Business driven ideas using modern management skills or anything [here](https:)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Swedish fika surprisingly works when it comes to productivity, so try a cup of coffee(maybe java beans lol) when even AI couldn't figure out what the heck is wrong with your code**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="Mohammad:mohamedyassen2001mhd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
