@@ -7,6 +7,7 @@
 <h2> 💼 I'm passionate about employing my technical skills in Real-World business-driven ideas, aiming to deliver modern outcomes using wise business management approaches.
 </h2>
 
+
 <h3 align="center">SOFTWARE ENGINEER IN SWEDEN 🇸🇪 💚</h3>
 <h3 align="center">UNIVERSITY OF GOTHENBURG BABAAAAY!! 🦾</h3>
 
@@ -31,7 +32,7 @@
   <a href="https://www.linkedin.com/in/mohammad-mohammad-32abb7249/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="put my personal website here" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -39,13 +40,11 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,pycharm,vscode,github,gitlab,figma,git" /> <br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,jquery,python,javascript,docker,postgresql" /><br>
 </div>
 
-<br/>
 <hr/>
 
 <div align="center">
