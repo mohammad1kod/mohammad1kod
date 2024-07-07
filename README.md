@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohammad1kod.mohammad1kod" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=1000&height=100&duration=3000&lines=WELCOME+TO+MY+COOL+GIT+PROFILE+😎;+MO+HERE!,+AKA+CODENOOPER🫠,+BUT......;+IMPRESSSSSSIVE!!+RIGHT?!🫣;+STILL+NOT+IMPRESSED+YET?!!😒,;+KEEP+SCROLLING+TO+SEE+MY+SNAKE+🐍" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=1000&height=100&duration=2000&lines=WELCOME+TO+MY+COOL+GIT+PROFILE+😎;+MOHAMMAD+HERE!;+IMPRESSSSSSIVE!!+RIGHT?!🫣;+STILL+NOT+IMPRESSED+YET?!!😒,;+KEEP+SCROLLING+TO+SEE+MY+SNAKE+🐍+👇+👇"" />
 </h1>
 
 <h2> 💼 I'm passionate about employing my technical skills in Real-World business-driven ideas, aiming to deliver modern outcomes using wise business management approaches.
@@ -12,13 +12,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a personal website**
+ 🔭 I’m currently working on   **a personal website**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning   **Docker, Supabase, AWS**
 
- 💬 Ask me about **How I am achieving Business driven ideas using modern management skills or anything [here](https:)**
+ 💬 Ask me about   **How I am achieving Business driven ideas using modern management skills or anything [here](https:)**
 
-⚡ Fun fact **⚡ Fun fact: Swedish fika surprisingly works when it comes to productivity. So try a cup of coffee (maybe java beans, lol) when even AI can't figure out what the heck is wrong with your code.**
+⚡ Fun fact   **Swedish fika surprisingly works when it comes to productivity. So try a cup of coffee (maybe java beans, lol) when even AI can't figure out what the heck is wrong with your code.**
 
 </div>
  
@@ -66,10 +66,16 @@
 
 <hr/>
 
-<br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=1000&height=100&duration=3000&lines=STILL+NOT+IMPRESSED+YET??+🗿,;TRY+CHECKING+MY+AI+POWERED+PORTFOLIO+👇+👇" />
+</h1>
+
+<div align="right"> 
+  <a href="put my personal website here" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" style="height:70px;" /> <!-- Height increased to 70px -->
+  </a>
+  </div>
+
 
 <br/>
