@@ -18,7 +18,7 @@
 
  💬 Ask me about **How I am achieving Business driven ideas using modern management skills or anything [here](https:)**
 
-⚡ Fun fact **Swedish fika surprisingly works when it comes to productivity, so try a cup of coffee(maybe java beans lol) when even AI couldn't figure out what the heck is wrong with your code**
+⚡ Fun fact **⚡ Fun fact: Swedish fika surprisingly works when it comes to productivity. So try a cup of coffee (maybe java beans, lol) when even AI can't figure out what the heck is wrong with your code.**
 
 </div>
  
