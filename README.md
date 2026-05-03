@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohammad1kod.mohammad1kod" />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohammad1kod.mohammad1kod" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=1000&height=100&duration=2000&lines=WELCOME+TO+MY+COOL+GIT+PROFILE+😎;+MOHAMMAD+HERE!;+IMPRESSSSSSIVE!!+RIGHT?!🫣;+STILL+NOT+IMPRESSED+YET?!!😒,;+KEEP+SCROLLING+TO+SEE+MY+SNAKE+🐍+👇+👇"" />
@@ -78,4 +78,4 @@
   </div>
 
 
-<br/>
+<br/> -->
